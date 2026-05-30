@@ -1,0 +1,8 @@
+.env
+
+go.work
+go.sum
+
+/storage
+config
+local.yaml
